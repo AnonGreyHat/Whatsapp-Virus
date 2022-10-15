@@ -9,3 +9,12 @@ This script can crash whatsapp, for both IOS and Android don't copy or modify In
 # compactibility
 This repo works on termux and all version of linux like: kali, parrot, black arch and so on.
 Dont forget to review my repo.
+
+
+
+This repo also has a voice instructions programmed in python to guide you
+For me to keep maintaining this project, pls donate any amount of etherum to the below wallet. 
+0x675a288a45106f2e86574b8828e04de4d9d6c316
+
+
+Thanks
